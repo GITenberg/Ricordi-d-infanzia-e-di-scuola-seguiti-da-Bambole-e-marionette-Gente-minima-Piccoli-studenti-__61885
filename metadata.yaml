@@ -1,5 +1,8 @@
 _repo: Ricordi-d-infanzia-e-di-scuola-seguiti-da-Bambole-e-marionette-Gente-minima-Piccoli-studenti-__61885
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61885-h/images/cover.jpg
 creator:
   author:
     agent_name: De Amicis, Edmondo
@@ -15,6 +18,8 @@ creator:
     - https://it.wikipedia.org/wiki/Edmondo_De_Amicis
     - https://en.wikipedia.org/wiki/Edmondo_De_Amicis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61885#Ricordi-d-infanzia-e-di-scuola-seguiti-da-Bambole-e-marionette-Gente-minima-Piccoli-studenti-_
 gutenberg_issued: '2020-04-21'
 gutenberg_type: Text
 identifiers:
